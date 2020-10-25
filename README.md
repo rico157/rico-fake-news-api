@@ -1,4 +1,4 @@
-**Rico Fake News API**
+# **Rico Fake News - API** | [Live Host](https://rico-nc-news.herokuapp.com/) 👀
 ----
   Rico Fake News was built as final **backend** project during the [Remote Coding Bootcamp](https://northcoders.com/remote-coding-bootcamp) at Northcoders
   
@@ -96,10 +96,7 @@ DELETE /api/comments/:comment_id
 
 GET /api
 
-DELETE /api/articles/:article_id
-POST /api/topics
-POST /api/users
-GET /api/users
+
 ```
 
 
