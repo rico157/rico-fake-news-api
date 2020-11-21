@@ -1,5 +1,6 @@
 # **Rico Fake News - API** | [Live Host](https://rico-nc-news.herokuapp.com/) 👀
-----
+## Front End: [Live APP](https://rico-fake-news.netlify.app/) / [GitHub](https://github.com/rico157/rico-fake-news)
+
   Rico Fake News was built as final **backend** project during the [Remote Coding Bootcamp](https://northcoders.com/remote-coding-bootcamp) at Northcoders
   
   ---
