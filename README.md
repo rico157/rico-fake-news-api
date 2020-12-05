@@ -3,6 +3,8 @@
 
   Rico Fake News was built as final **backend** project during the [Remote Coding Bootcamp](https://northcoders.com/remote-coding-bootcamp) at Northcoders
   
+  
+  
   ---
   #### Tech-Stack
 * Runtime Enviroment: [Node.js](https://nodejs.org/)
@@ -12,6 +14,8 @@
 #### TDD 
 * Testing Framework: [Jest](https://jestjs.io/)
 * HTTP Requests: [supertest](https://www.npmjs.com/package/supertest)
+![tdd](https://github.com/rico157/rico-fake-news-api/blob/master/tdd.png)
+
 ---
 ### Requirements
 
